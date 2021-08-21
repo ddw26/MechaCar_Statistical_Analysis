@@ -7,14 +7,32 @@ Upper management has notified both Jeremy and the data analytics team about Auto
 
 ### Linear Regression to Predict MPG
 ________________________________________________________
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Is the slope of the linear model considered to be zero? Why or why not?
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+**Linear Regression Output**
+
+![Linear Regression Output 1](https://user-images.githubusercontent.com/77905862/130328977-2d8d91fe-c072-49b3-a4b0-485e09104fe4.png)
+
+![Linear Regression Output 2](https://user-images.githubusercontent.com/77905862/130328988-584b14d6-208d-4353-b16f-dfdb16aa5806.png)
+
+
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? 
+- Is the slope of the linear model considered to be zero? Why or why not? 
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
 
 
 
 ### Summary Statistics on Suspension
 ________________________________________________________
+
+**Total Summary**
+
+![Total_Summary](https://user-images.githubusercontent.com/77905862/130329415-a154eead-2589-4fb5-abbb-8d8e21f9cf75.png)
+
+**Lot Summary**
+
+![Lot_Summary](https://user-images.githubusercontent.com/77905862/130329435-06707d01-2381-44b0-b12e-3faa74063b2c.png)
+
+
 - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 
