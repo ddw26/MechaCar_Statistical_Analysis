@@ -42,6 +42,7 @@ ________________________________________________________
 
 - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+_It is safe to say that Lots 1 and 2 are within the design specifications, and they are a good represenation of the population (1500) as well. With variance in Lot 1 being 0.9795918, and variance in Lot 2 being 7.4693878, they both meet within the 100 PSI Variance guidance. Lot 3, however had a variance of 170.2861224, which greatly exceeds the criteria._
 
 
 ### T-Tests on Suspension Coils
@@ -50,6 +51,10 @@ ________________________________________________________
 **Suspension Coils T-Test's Output**
 
 ![T-Testing](https://user-images.githubusercontent.com/77905862/130329531-b27c211e-ac56-4845-982e-c07180b52011.png)
+
+
+#### Summary:
+_To summarize the above, the P-Values for Lots are as follows: 'Overall' = .06, 'Lot 1' = 1, 'Lot 2' = .6072 and 'Lot 3' = .0416. Because our significance level is 0.05%, the P-Value for 'Lot 3' is slightly below our significance level. While 'Lot 1' and 'Lot 2' do not have sufficient evidence to reject the null hypothesis we would state that the means are statistically similar._
 
 
 # Deliverable 4
