@@ -1,5 +1,10 @@
 # MechaCar_Statistical_Analysis
 
+# Overview 
+
+Upper management has notified both Jeremy and the data analytics team about AutoRU's newest prototype, MechaChar. The prototype, however, is suffering from production troubles, all of which inhibits the manufacturing team’s progress. As a result, we have been tasked to review the production data for insights that may help the manufacturing team. We performed multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes. We also collected summary statistics on the pounds per square inch (PSI) of the suspension coils, and ran t-tests to determine if the manufacturing lots were statistically different from the mean population. Lastly, we designed a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+
+
 ### Linear Regression to Predict MPG
 ________________________________________________________
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
