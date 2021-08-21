@@ -40,6 +40,10 @@ ________________________________________________________
 ### T-Tests on Suspension Coils
 ________________________________________________________
 
+**Suspension Coils T-Test's Output**
+
+![T-Testing](https://user-images.githubusercontent.com/77905862/130329531-b27c211e-ac56-4845-982e-c07180b52011.png)
+
 
 # Deliverable 4
 ### Study Design: MechaCar vs Competition 
